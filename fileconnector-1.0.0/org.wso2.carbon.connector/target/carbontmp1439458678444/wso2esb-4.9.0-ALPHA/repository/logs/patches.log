@@ -1,0 +1,11 @@
+[2015-08-13 15:08:06,294]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Checking for patch changes ...
+[2015-08-13 15:08:06,296]  INFO {org.wso2.carbon.server.util.PatchUtils} -  New patch available - patch9999
+[2015-08-13 15:08:06,303]  INFO {org.wso2.carbon.server.extensions.PatchInstaller} -  Patch changes detected 
+[2015-08-13 15:08:06,803]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Backed up plugins to patch0000
+[2015-08-13 15:08:06,803]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Applying patches ...
+[2015-08-13 15:08:06,804]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Applying - patch9999
+[2015-08-13 15:08:06,864]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patched .DS_Store(MD5:6c69b08f625466c0d097a5d342a7945a)
+[2015-08-13 15:08:06,986]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patched synapse-core-2.1.3-wso2v5.jar(MD5:0e9908833ab28ff73d9a0eaf6c7e96c1)
+[2015-08-13 15:08:07,015]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patched org.wso2.carbon.endpoint.ui-4.4.1.jar(MD5:33c46591130f228ae0a1197c7afed933)
+[2015-08-13 15:08:07,015]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification started
+[2015-08-13 15:08:07,042]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification successfully completed

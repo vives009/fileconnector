@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.tenant.mgt.server" label="WSO2 Multitenancy Tenant Management Server Feature" provider-name="%providerName" version="4.4.1">
+  <description>This feature contains the core bundles required for Back-end Multitenancy Tenant Management Core functionality</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="org.wso2.carbon.email.verification" unpack="false" version="4.4.3"/>
+  <plugin id="org.wso2.carbon.tenant.mgt" unpack="false" version="4.4.1"/>
+  <plugin id="org.wso2.carbon.tenant.mgt.core" unpack="false" version="4.4.1"/>
+  <require>
+    <import feature="org.wso2.carbon.core.server" match="equivalent" version="4.4.0"/>
+  </require>
+</feature>

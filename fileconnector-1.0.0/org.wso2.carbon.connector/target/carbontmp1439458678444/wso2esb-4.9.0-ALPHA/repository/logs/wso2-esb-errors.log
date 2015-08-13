@@ -1,0 +1,2 @@
+2015-08-13 15:08:12,027 [-] [Start Level Event Dispatcher]  WARN ValidationResultPrinter Carbon is configured to use the default keystore (wso2carbon.jks). To maximize security when deploying to a production environment, configure a new keystore with a unique password in the production server profile.
+2015-08-13 15:08:20,833 [-] [localhost-startStop-1]  WARN DefaultSchemaGenerator We don't support method overloading. Ignoring [validateAudienceRestriction]

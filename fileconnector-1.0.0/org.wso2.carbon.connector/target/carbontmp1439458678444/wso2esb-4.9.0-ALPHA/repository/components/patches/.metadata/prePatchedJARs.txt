@@ -1,0 +1,3 @@
+synapse-core_2.1.3.wso2v5.jar:0e9908833ab28ff73d9a0eaf6c7e96c1
+org.wso2.carbon.endpoint.ui_4.4.1.jar:33c46591130f228ae0a1197c7afed933
+.DS_Store:6c69b08f625466c0d097a5d342a7945a

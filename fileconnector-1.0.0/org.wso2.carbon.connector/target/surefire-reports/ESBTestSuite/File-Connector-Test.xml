@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="vivekananthan-ThinkPad-T540p" name="org.wso2.carbon.connector.intergrationtest.FileConnector.FileConnectorIntegrationWithOneProxyTest" tests="1" failures="0" timestamp="13 Aug 2015 09:39:00 GMT" time="31.197" errors="0">
+  <testcase name="testunZipFile" time="0.094" classname="org.wso2.carbon.connector.intergrationtest.FileConnector.FileConnectorIntegrationWithOneProxyTest"/>
+</testsuite>

@@ -1,0 +1,22 @@
+[2015-08-13 15:08:25,948]  INFO -  'admin@carbon.super [-1234]' logged in at [2015-08-13 15:08:25,947+0530] 
+[2015-08-13 15:08:28,492]  INFO -  'admin@carbon.super [-1234]' logged in at [2015-08-13 15:08:28,492+0530] 
+[2015-08-13 15:08:28,649]  INFO -  'admin@carbon.super [-1234]' logged in at [2015-08-13 15:08:28,649+0530] 
+[2015-08-13 15:08:28,904]  INFO -  Initiator : admin@carbon.super | Action : Add Role | Target : testRole | Data : { Users :  Permissions : [Ljava.lang.String;@64e135f } | Result : Success  
+[2015-08-13 15:08:29,087]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : adminuser | Data : { Roles :admin, } | Result : Success  
+[2015-08-13 15:08:29,114]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser2 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,138]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser3 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,163]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser4 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,190]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser5 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,218]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser6 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,249]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser7 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,275]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser8 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,305]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser9 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,338]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser10 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,365]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser11 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,395]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser12 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,435]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser13 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,469]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser14 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,505]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : testuser15 | Data : { Roles :testRole, } | Result : Success  
+[2015-08-13 15:08:29,577]  INFO -  'testuser2@carbon.super [-1234]' logged in at [2015-08-13 15:08:29,576+0530] 
+[2015-08-13 15:08:29,702]  INFO -  'admin@carbon.super [-1234]' logged in at [2015-08-13 15:08:29,702+0530] 
+[2015-08-13 15:09:00,794]  INFO -  'admin@carbon.super [-1234]' logged in at [2015-08-13 15:09:00,793+0530] 

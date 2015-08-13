@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ESBTestSuite" duration-ms="31197" started-at="2015-08-13T15:08:29Z" finished-at="2015-08-13T15:09:00Z">
+    <groups>
+      <group name="java.lang.reflect.Method">
+        <method signature="org.wso2.carbon.connector.intergrationtest.FileConnector.FileConnectorIntegrationWithOneProxyTest.testunZipFile()" name="testunZipFile" class="org.wso2.carbon.connector.intergrationtest.FileConnector.FileConnectorIntegrationWithOneProxyTest"/>
+      </group>
+    </groups>
+    <test name="File-Connector-Test" duration-ms="31197" started-at="2015-08-13T15:08:29Z" finished-at="2015-08-13T15:09:00Z">
+      <class name="org.wso2.carbon.connector.intergrationtest.FileConnector.FileConnectorIntegrationWithOneProxyTest">
+        <test-method status="PASS" signature="setEnvironment()" name="setEnvironment" is-config="true" duration-ms="31068" started-at="2015-08-13T15:08:29Z" finished-at="2015-08-13T15:09:00Z">
+        </test-method>
+        <test-method status="PASS" signature="testunZipFile()" name="testunZipFile" duration-ms="94" started-at="2015-08-13T15:09:00Z" description="Fileconnector unZip file intergration test" finished-at="2015-08-13T15:09:00Z">
+        </test-method>
+        <test-method status="PASS" signature="cleanUpEsb()" name="cleanUpEsb" is-config="true" duration-ms="27" started-at="2015-08-13T15:09:00Z" finished-at="2015-08-13T15:09:00Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,14 @@
+<template xmlns="http://ws.apache.org/ns/synapse" name="readContent">
+
+    <parameter name="filelocation"/>
+
+
+    <sequence>
+        <log level="full" category="debug">
+
+            <property name="filelocation" expression="$func:filelocation" />
+
+        </log>
+        <class name="org.wso2.carbon.connector.FileReadContent" />il
+    </sequence>
+</template>
